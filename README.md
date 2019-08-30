@@ -27,20 +27,6 @@ This page is being used to demonstrate key understanding of git concepts in the 
  ## My Info
  My name is **Connor Beshears**, I am a Senior here working towards my BS in Computer Science.
 
- Here is a cool image from an in development game, Star Citizen
+ Here is a cool image from an in-development game, Star Citizen
  ![Image](https://pbs.twimg.com/media/Di5OEMkUYAA3fwK.jpg)
 
-<!-- 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src) -->
