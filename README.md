@@ -2,9 +2,28 @@
 
 ## Links
 
-[Hosted page](https://connorbeshears.github.io/about-me/)<br>
-[Repository page](https://github.com/connorbeshears/about-me)
+- [Hosted page](https://connorbeshears.github.io/about-me/)
+- [Repository page](https://github.com/connorbeshears/about-me)
 
+## About
+This page is being used to demonstrate key understanding of git concepts in the context of web development. It will also provide information and tools to get started with git and web development.
+
+## Recommended Tools
+
+ - [Git Bash](https://git-scm.com/downloads)
+ - [Visual Studio Code](https://code.visualstudio.com/)
+    - note: There are plenty of extensions and tools that can be optionally downloaded into VS Code that are highly recommended.
+
+## Recommended Resources
+ - [Git tutorial](https://git-scm.com/docs/gittutorial)
+ This tutorial is a comprehensive and deep tutorial on git, and explains very well what the tool is capable of.
+ 
+ - [Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
+ This is a great guide from GitHub on how to edit .md or markdown files, which is what this page is using right now. Great place to start when creating a .md readme or guide for your git repo
+
+ 
+
+<!-- 
 # Header 1
 ## Header 2
 ### Header 3
@@ -17,15 +36,4 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/connorbeshears/about-me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](url) and ![Image](src) -->
