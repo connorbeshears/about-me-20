@@ -1,4 +1,4 @@
-# Welcome to my About Me
+# About Me
 
 ## Links
 
@@ -21,7 +21,14 @@ This page is being used to demonstrate key understanding of git concepts in the 
  - [Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
  This is a great guide from GitHub on how to edit .md or markdown files, which is what this page is using right now. Great place to start when creating a .md readme or guide for your git repo
 
- 
+ - [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+ This is a tutorial on how to use React JS, a javascript framework from Facebook that makes web development fun and easy. I highly recommend this framework as it's easy to use and Facebook has made loads of documentation if you get stuck.
+
+ ## My Info
+ My name is **Connor Beshears**, I am a Senior here working towards my BS in Computer Science.
+
+ Here is a cool image from an in development game, Star Citizen
+ ![Image](https://pbs.twimg.com/media/Di5OEMkUYAA3fwK.jpg)
 
 <!-- 
 # Header 1
