@@ -2,7 +2,7 @@
 
 ## Links
 
-[Hosted page](https://connorbeshears.github.io/about-me/)
+[Hosted page](https://connorbeshears.github.io/about-me/)<br>
 [Repository page](https://github.com/connorbeshears/about-me)
 
 # Header 1
