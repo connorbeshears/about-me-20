@@ -10,6 +10,14 @@
     height:2em;
 
   }
+  .sidebar{
+    width: 8rem;
+    position: fixed;
+    z-index: 1;
+    top: 7em;
+    right: 3em;
+    padding: 8px 0;
+  }
   .calcButton {
     -moz-box-shadow:inset 0px 1px 3px 0px #91b8b3;
     -webkit-box-shadow:inset 0px 1px 3px 0px #91b8b3;
